@@ -30,7 +30,6 @@ layout: default
     </div>
 </html>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title></title>
@@ -139,6 +138,25 @@ layout: default
             </div>
             <div class="ui-block-d">
                 <a href="#" class="previous_h">Previous</a>
+            </div>
+            <div id="realTimeContents">
+                https://codextream.github.io/ARRANGING-COINS/
+                <br />
+                https://codextream.github.io/BINARY-TREE-LEVEL-ORDER-TRAVERSAL-II/
+                <br />
+                https://codextream.github.io/PRISON-CELLS-AFTER-N-DAYS/
+                <br />
+                https://codextream.github.io/UGLY-NUMBER-II/
+                <br />
+                https://codextream.github.io/HAMMING-DISTANCE/
+                <br />
+                https://codextream.github.io/PLUS-ONE/
+                <br />
+                https://codextream.github.io/ISLAND-PERIMETER/
+                <br />
+                https://codextream.github.io/3-SUM/
+                <br />
+                    
             </div>
         </div>
     </div>
