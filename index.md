@@ -140,7 +140,6 @@ layout: default
                 <br />
                 https://codextream.github.io/3-SUM/
                 <br />
-                    
             </div>
         </div>
     </div>
