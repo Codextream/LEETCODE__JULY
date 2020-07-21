@@ -16,7 +16,7 @@ layout: default
 
 {% include 05-emphasis.md %}
 
-
+<html>
 <div id="contact">
         <h2>Get in Touch</h2>
         <div id="contact-form">
@@ -28,3 +28,4 @@ layout: default
             </form>
         </div>
     </div>
+</html>
